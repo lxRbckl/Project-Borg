@@ -2,7 +2,7 @@
 > Document data of biased roulette wheels and visualize it with MatPlotLib.
 
 ### Installation
-```bash
+```
 pip3 install xlrd
 pip3 install xlwt
 pip3 install glob
