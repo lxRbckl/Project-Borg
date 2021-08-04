@@ -1,4 +1,4 @@
-## Project Borg 𝟤𝟢𝟣𝟫
+## Project Borg
 > Document data of biased roulette wheels and visualize it with MatPlotLib.
 
 ### Installation
