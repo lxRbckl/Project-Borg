@@ -1,4 +1,4 @@
-## [Project Borg](http://lxrbckl.com/Project-Borg)
+## [`Project Borg`](http://lxrbckl.com/Project-Borg)
 > Highlight the data of biased roullette wheels and visualize it with MatPlotLib. Spring 2019.
 
 ### Installation
